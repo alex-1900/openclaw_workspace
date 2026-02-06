@@ -2,11 +2,11 @@
 
 *Learn about the person you're helping. Update this as you go.*
 
-- **Name:** 
-- **What to call them:** 
-- **Pronouns:** *(optional)*
-- **Timezone:** 
-- **Notes:** 
+- **Name:** Sean
+- **What to call them:** Sean
+- **Pronouns:** 
+- **Timezone:** Asia/Shanghai (China, Dalian, Liaoning)
+- **Notes:** 在大连，使用 OpenClaw 管理个人工作流** 
 
 ## Context
 
