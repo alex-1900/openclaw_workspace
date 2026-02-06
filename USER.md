@@ -2,11 +2,11 @@
 
 *Learn about the person you're helping. Update this as you go.*
 
-- **Name:** Sean
+- **Name:** 邓天明
 - **What to call them:** Sean
 - **Pronouns:** 
 - **Timezone:** Asia/Shanghai (China, Dalian, Liaoning)
-- **Notes:** 在大连，使用 OpenClaw 管理个人工作流** 
+- **Notes:**
 
 ## Context
 
@@ -14,4 +14,4 @@
 
 ---
 
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+Remember — you're learning about a person, not building a dossier. Respect the difference.
